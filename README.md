@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open source rust projects**
 
-- ⚡ Fun fact **I use vim btw**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samrichardsonde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrichardsonde" height="30" width="40" /></a>
